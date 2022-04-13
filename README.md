@@ -13,3 +13,4 @@ email:segizseri@gmail.com pass:aza123456
 Нужно для того чтобы установить many to many
 
 # Postman collection
+PostMan TestWork 349.postman_collection.json
